@@ -6,6 +6,9 @@
     "email": "leomirandadev@gmail.com",
     "url": "https://github.com/leoMirandaa"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "license": "MIT",
   "keywords": [
     "react",
